@@ -30,6 +30,11 @@ This project focuses on fetching, processing, and plotting financial data for se
 2. Open this project in IntelliJ
 3. Go to `Nvidia.py` or `Netflix.py`
 4. **Run the file**
+
+---
+## References
+https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html
+https://ranaroussi.github.io/yfinance/
    
 ---
 ## Project Structure
