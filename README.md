@@ -26,11 +26,11 @@ This project focuses on fetching, processing, and plotting financial data for se
 
 ## Project Structure
 
-StocksBasicAnalysis/
----- Nvidia.py # Analysis for Nvidia
----- Netflix.py # Analysis for Netflix
----- requirements.txt # List of dependencies
-----README.md # Project documentation
+StocksBasicAnalysis
+- Nvidia.py # Analysis for Nvidia
+- Netflix.py # Analysis for Netflix
+- requirements.txt # List of dependencies
+- README.md # Project documentation
 
 ---
 
