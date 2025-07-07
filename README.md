@@ -33,8 +33,8 @@ This project focuses on fetching, processing, and plotting financial data for se
 
 ---
 ## References
-https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html
-https://ranaroussi.github.io/yfinance/
+- https://matplotlib.org/3.5.3/api/_as_gen/matplotlib.pyplot.html
+- https://ranaroussi.github.io/yfinance/
    
 ---
 ## Project Structure
