@@ -32,7 +32,6 @@ StocksBasicAnalysis/
 ├── requirements.txt # List of dependencies
 └── README.md # Project documentation
 
-
 ---
 
 ## Installation
