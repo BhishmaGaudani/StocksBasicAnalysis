@@ -40,14 +40,3 @@ StocksBasicAnalysis
 2. Open this project in IntelliJ
 3. Go to `Nvidia.py` or `Netflix.py`
 4. **Run the file**
-
----
-
-## Example Output
-
-Plots generated include:
-
-- **Line chart of closing prices**
-- **Histogram of daily returns**
-- **Line chart with moving averages overlaid**
-
