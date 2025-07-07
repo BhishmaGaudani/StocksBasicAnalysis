@@ -18,7 +18,6 @@ This project focuses on fetching, processing, and plotting financial data for se
 ## Technologies Used
 
 - **Python** 
-- **pandas** – Data manipulation and analysis
 - **matplotlib** – Data visualization
 - **yfinance** – Fetching historical stock data
 
