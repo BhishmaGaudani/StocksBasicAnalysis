@@ -1,4 +1,4 @@
-#StocksBasicAnalysis
+##StocksBasicAnalysis
 
 A simple Python project for analyzing and visualizing historical stock data.  
 This project focuses on fetching, processing, and plotting financial data for selected stocks such as Nvidia and Netflix. It is a great starting point for anyone interested in quantitative finance or learning how to work with financial datasets using Python.
