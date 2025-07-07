@@ -24,6 +24,14 @@ This project focuses on fetching, processing, and plotting financial data for se
 
 ---
 
+## Installation
+
+1. Install **IntelliJ IDEA**
+2. Open this project in IntelliJ
+3. Go to `Nvidia.py` or `Netflix.py`
+4. **Run the file**
+   
+---
 ## Project Structure
 
 StocksBasicAnalysis
@@ -33,10 +41,3 @@ StocksBasicAnalysis
 - README.md # Project documentation
 
 ---
-
-## Installation
-
-1. Install **IntelliJ IDEA**
-2. Open this project in IntelliJ
-3. Go to `Nvidia.py` or `Netflix.py`
-4. **Run the file**
